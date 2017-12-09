@@ -1,6 +1,6 @@
 {
   "name": "babel-enhanced-node",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Babel Enhanced Node",
   "author": "shtse8 <shtse8@gmail.com>",
   "scripts": {
@@ -52,6 +52,6 @@
     "eslint-plugin-standard": "^3.0.1"
   },
   "bin": {
-    "babel-node": "./babel.js"
+    "babel-node": "./bin/babel-node.js"
   }
 }
