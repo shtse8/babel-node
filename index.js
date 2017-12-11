@@ -590,6 +590,9 @@ class Client extends Node {
       this.displayDebug('Close process started.')
       this.syncSocket.close()
       this.socket.close()
+      if (this.program.force) {
+        process.exit()
+      }
     }
   }
 
