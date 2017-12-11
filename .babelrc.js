@@ -19,7 +19,6 @@ let options = {
 
 if (target === 'browser') {
   targets.browsers = ["last 1 versions", "not ie > 0"]
-  options.plugins.push("graphql-tag")
 }
 
 module.exports = options
