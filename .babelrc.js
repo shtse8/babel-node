@@ -12,7 +12,6 @@ let options = {
   ],
   plugins: [
     "@babel/transform-runtime",
-    "@babel/plugin-proposal-decorators",
     "babel-plugin-root-import"
   ]
 }
