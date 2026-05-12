@@ -23,7 +23,7 @@
   "dependencies": {
     "@babel/core": "^7.0.0-beta.34",
     "chalk": "^2.3.0",
-    "chokidar": "^1.7.0",
+    "chokidar": "^5.0.0",
     "commander": "^2.12.2",
     "eslint": "^4.12.0",
     "netlinkwrapper": "^1.0.0",
