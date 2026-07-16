@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.png" alt="babel-node banner" width="100%" />
+</p>
+
 ## Installation
 
 Just install it and add to your package:
