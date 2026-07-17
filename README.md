@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="babel-node banner" width="100%" />
+  <img src="https://mark.sylphx.com/api/v1/banner?type=silk&theme=tokyonight&text=babel+node&desc=Open+source+%C2%B7+Sylphx+ecosystem&height=200&animation=rise&credit=0" alt="babel-node — Sylphx Mark banner" width="100%" />
 </p>
 
 ## Installation
